@@ -43,9 +43,6 @@ This project is an example of image transition animation in a tiled layout, crea
 
 ## Possible Best Practices
 
-- **Separation of Concerns:**  
-  For more complex projects, consider separating CSS and JavaScript into distinct files for easier maintenance and scalability.
-
 - **Accessibility:**  
   If needed, add descriptions (`alt`) or alternative text to improve accessibility, although this project is primarily visual.
 
@@ -54,4 +51,4 @@ This project is an example of image transition animation in a tiled layout, crea
 
 ## License
 
-Feel free to use and modify this code as needed. If this is a public project, you may choose any license you prefer.
+Feel free to use and modify this code as needed.
